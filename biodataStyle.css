@@ -1,0 +1,105 @@
+.bold {
+    font-size: 22pt;
+}
+
+.side {
+    background-color: #25316D;
+    width: 30%;
+    float: left;
+    height: 900px;
+    position: fixed;
+}
+
+.img {
+    margin: 30px;
+}
+
+.boldContact {
+    font-size: 22pt;
+    color: grey;
+}
+
+.contact {
+    margin-left: 20px;
+    color: grey;
+    font-size: 14pt;
+}
+
+.Kemampuan {
+    font-size: 22pt;
+    margin-left: 20px;
+}
+
+.isikemampuan {
+    font-size: 14pt;
+    color: grey;
+}
+
+.Bahasa {
+    font-size: 22pt;
+    margin-left: 20px;
+}
+
+.isibahasa {
+    font-size: 14pt;
+    color: grey;
+}
+
+.Hobbi {
+    font-size: 22Spt;
+    margin-left: 20px;
+}
+
+.isihobbi {
+    font-size: 14pt;
+    color: grey;
+}
+
+.youtube {
+    font-size: 18pt;
+    margin-left: 20px;
+}
+
+.main {
+    background-color: #5F6F94;
+    width: 70%;
+    float: right;
+    height: 1600px;
+}
+
+.boldName {
+    font-size: 26pt;
+}
+
+.name {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 16pt;
+}
+
+.boldRangkuman {
+    font-size: 24pt;
+}
+
+.rangkuman {
+    margin-left: 20px;
+    font-size: 16pt;
+}
+
+.boldEducation {
+    font-size: 24pt;
+}
+
+.education {
+    margin-left: 20px;
+    font-size: 16pt;
+}
+
+.boldYoutube {
+    font-size: 24pt;
+}
+
+.youtube {
+    margin-left: 20px;
+    font-size: 16pt;
+}
